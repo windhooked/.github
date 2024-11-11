@@ -9,7 +9,11 @@ In addition the golang stability, backward compatibility, package system, build 
 
 I'm mostly working with enterprise systems and integrations, here my need is simple and fast which does not get in your way of solving business problems.
 
+# To heap is human, to stack is divine
+
 However when using Golang for ultra performance mission critical systems a recuring sticky point seems to be memory safety and allocation, there are some good blogs out there which demonstrate aproaches to optimise the GC overhead.
+
+With my background in systems programming for tiny spaces it seemed natural to consider the hardware, like clock cycles, memory use and allocations and so on. Then came a time where mortals had no longer to concern themsels with such low level detail, until we had to go faster.
 
 https://tip.golang.org/doc/gc-guide
 
