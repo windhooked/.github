@@ -5,7 +5,7 @@ Ranom findings in my Zig journey got me thinking, and wanting to document, here 
 
 The simplicity of Golang, its no nonsense aproach resonantes with my minimalistic core. Zig offers some awesome usability ( like self build) / utitlity (like c inerop) / features. But... these can also be found in golang.
 
-In addition the golang stability, backward compatibility, package system, build speed to name a few have been very refreshing. All software languages exist for a reason, and as such are useful. 
+In addition the golang stability, backward compatibility, package system, build speed, testability, no hidden control flow, to name a few have been very refreshing. All software languages exist for a reason, and as such are useful. 
 
 I'm mostly working with enterprise systems and integrations, here my need is simple and fast which does not get in your way of solving business problems.
 
