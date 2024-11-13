@@ -22,7 +22,7 @@ Can a different GC strategy be used to improve performance?
 https://github.com/tinygo-org/tinygo
 Here I tried to compile gitlab.com/cznic/sqlite with tinygo, bur found runtime.Pinning not implemented.
 
-The new arean language feature:
+The new arena language feature:
 
 https://pyroscope.io/blog/go-1-20-memory-arenas/
 
